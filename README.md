@@ -8,6 +8,7 @@ Bump every entity off a network, wirelessly without wifi with the use of bluetoo
 * Portable Power Supply for Pi
 ## Required Software
 * Python
+  - PyBluez library
 * Root Privalage
 * Bluetooth Capable PI and Client
 ## Disclaimer
