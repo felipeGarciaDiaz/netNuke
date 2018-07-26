@@ -14,3 +14,8 @@ Bump every entity off a network, wirelessly without wifi with the use of bluetoo
   The only difficult items to get might be the pi and the antenna 
   
   My point of this is to teach people how to make a fairly dangerous cyber weapon, it's not suppose to be something that you can download and destroy an entire network with. Im not helping script kiddies, I'm trying to show people who are trying to learn system security or hacking, what an applicable physical visible cyber attack might look like, and how it works. I'm also putting this here for any other hacker or developer to use freely however they might please
+  
+  ### Why I Made this
+  I think I decided to create this for a desire to apply some cool security knowledge, and as a way to further understand more how bluetooth communicates with devices and software aswell as how it might be applicable in a cyber attack and cyber deffense situation. I hope you all enjoy the hack!
+  
+  > Felipe Garcia Diaz
